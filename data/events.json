@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Football Training",
+    "category": "sports",
+    "time": "evening",
+    "location": "Sports Hall",
+    "attendance": 80
+  },
+  {
+    "id": 2,
+    "title": "Coding Club Meetup",
+    "category": "technology",
+    "time": "morning",
+    "location": "Library Lab",
+    "attendance": 35
+  },
+  {
+    "id": 3,
+    "title": "Acoustic Music Night",
+    "category": "music",
+    "time": "afternoon",
+    "location": "Student Centre",
+    "attendance": 50
+  },
+  {
+    "id": 4,
+    "title": "Study Skills Workshop",
+    "category": "academic",
+    "time": "morning",
+    "location": "Room B12",
+    "attendance": 45
+  },
+  {
+    "id": 5,
+    "title": "Basketball Social",
+    "category": "sports",
+    "time": "evening",
+    "location": "Main Court",
+    "attendance": 60
+  }
+]

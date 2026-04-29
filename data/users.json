@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "interests": ["sports", "fitness"],
+    "preferredTime": "evening"
+  },
+  {
+    "id": 2,
+    "name": "Mia",
+    "interests": ["music", "social"],
+    "preferredTime": "afternoon"
+  },
+  {
+    "id": 3,
+    "name": "Sam",
+    "interests": ["technology", "academic"],
+    "preferredTime": "morning"
+  }
+]
